@@ -111,7 +111,7 @@ The process is currently running on the CPU.
 
 ### Ready
 
-The process is ready to run but waiting for the CPU.
+The process is ready to run but waiting for the CPU
 
 Usually, it waits in the ready queue.
 
